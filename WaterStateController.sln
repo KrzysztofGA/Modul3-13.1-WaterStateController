@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterStateController", "WaterStateController\WaterStateController.csproj", "{66A16F2F-72F0-472E-B527-832EC03F8BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterStateControllerTests", "WaterStateControllerTests\WaterStateControllerTests.csproj", "{952F8BED-7615-4C8A-803C-90F4FADF92BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66A16F2F-72F0-472E-B527-832EC03F8BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A16F2F-72F0-472E-B527-832EC03F8BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A16F2F-72F0-472E-B527-832EC03F8BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A16F2F-72F0-472E-B527-832EC03F8BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952F8BED-7615-4C8A-803C-90F4FADF92BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952F8BED-7615-4C8A-803C-90F4FADF92BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952F8BED-7615-4C8A-803C-90F4FADF92BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952F8BED-7615-4C8A-803C-90F4FADF92BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C07E7778-9272-4B49-8328-5364E8F7B688}
+	EndGlobalSection
+EndGlobal

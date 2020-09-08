@@ -1,0 +1,17 @@
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\WaterStateControllerTests.dll
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\WaterStateControllerTests.pdb
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\WaterStateController.exe
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\WaterStateController.pdb
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\WaterStateController.exe.config
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\obj\Debug\WaterStateControllerTests.csprojAssemblyReference.cache
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\obj\Debug\WaterStateControllerTests.csproj.CoreCompileInputs.cache
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\obj\Debug\WaterStateControllerTests.csproj.CopyComplete
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\obj\Debug\WaterStateControllerTests.dll
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateControllerTests\obj\Debug\WaterStateControllerTests.pdb

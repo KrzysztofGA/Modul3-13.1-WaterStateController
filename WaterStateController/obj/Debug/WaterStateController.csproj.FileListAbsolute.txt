@@ -1,0 +1,7 @@
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateController\bin\Debug\WaterStateController.exe.config
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateController\bin\Debug\WaterStateController.exe
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateController\bin\Debug\WaterStateController.pdb
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateController\obj\Debug\WaterStateController.csprojAssemblyReference.cache
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateController\obj\Debug\WaterStateController.csproj.CoreCompileInputs.cache
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateController\obj\Debug\WaterStateController.exe
+D:\Qsync\_code\GetAcademy\Module-3\13.1-WaterStateController\WaterStateController\obj\Debug\WaterStateController.pdb
